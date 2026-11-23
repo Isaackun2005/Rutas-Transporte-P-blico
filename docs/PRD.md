@@ -17,7 +17,7 @@
 
 ## 2. Usuarios
 
-- **Usuario principal:** Personas que investigan el transpote público, específicamente estudiantes y trabajadores de entre 18 y 45 años que no tienen vehículo propio y dependen del transporte público para sus traslados diarios.
+- **Usuario principal:** Personas que investigan el transporte público, específicamente estudiantes y trabajadores de entre 18 y 45 años que no tienen vehículo propio y dependen del transporte público para sus traslados diarios.
 - **Usuario secundario:** Personas nuevas en la ciudad que necesitan moverse de forma económica y segura sin conocer el idioma local o el funcionamiento del transporte de la zona.
 
 
@@ -48,20 +48,19 @@ Cada funcionalidad del alcance será una carpeta en `src/`. Nómbralas en inglé
 | Paradas, estaciones y horarios | `src/stops` |
 | Rutas y paradas favoritas | `src/favorites` |
 | Alertas y reportes de servicio | `src/alerts` |
-| | `src/routes` |
 
 ## 5. Fuera de alcance
 
 - Aplicación móvil nativa para iOS o Android (el proyecto es una aplicación web responsive).
 - Rastreo GPS en tiempo real mediante hardware físico instalado en las unidades de transporte.
-- Pasarela de pagos o recarga esectrónica de tarjetas/boletos de transporte. 
+- Pasarela de pagos o recarga electrónica de tarjetas/boletos de transporte. 
 
 ## 6. Requisitos funcionales
 
 | ID | Requisito | Prioridad (alta, media, baja) |
 | --- | --- | --- |
 | RF-01 | Buscar lineas y rutas de transporte público por nombre, número o usar geolocalización para ver opciones cercanas. | alta |
-| RF-02 | Calcular la ruta óptima punto a puto entre un origen y un destino, indicando combinaciones y transbordos necesarios. | alta |
+| RF-02 | Calcular la ruta óptima punto a punto entre un origen y un destino, indicando combinaciones y transbordos necesarios. | alta |
 | RF-03 | Explorar un mapa interactivo con el trazado de las rutas, estaciones y paradas disponibles. | alta |
 | RF-04 | Consultar el listado de paradas, horarios estimados de paso y tarifas vigentes de cada línea. | alta |
 | RF-05 | Guardar y administrar una lista de rutas y paradas favoritas para acceso rápido. | media |

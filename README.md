@@ -1,7 +1,7 @@
-# Mi producto
+# Michisuji - Rutas de Transporte Público
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+> **Alumno:** Isaac Emmanuel Aponte Zerpa · Sistema web de gestión y consulta de rutas de transporte público, paradas, transbordos y alertas.
+> Proyecto n.º 2 (Rutas de Transporte Público) · sitio de referencia: Moovit · [PRD](docs/PRD.md)
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
