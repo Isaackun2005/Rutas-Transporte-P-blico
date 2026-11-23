@@ -1,4 +1,4 @@
-# PRD · Michisuji  <Rutas de Transporte Público>
+# PRD · Michisuji - Rutas de Transporte Público
 
 > Documento de requisitos del producto (Product Requirements Document).
 > Complétalo en el Sprint 0 (historia H0.3) y pide la aprobación del profesor en un Issue.
@@ -17,7 +17,7 @@
 
 ## 2. Usuarios
 
-- **Usuario principal:** Personas que investigan el transpote publico, específicamente estudiantes y trabajadores de entre 18 y 45 años que no tienen vehículo propio y dependen del transporte público para sus traslados diarios.
+- **Usuario principal:** Personas que investigan el transpote público, específicamente estudiantes y trabajadores de entre 18 y 45 años que no tienen vehículo propio y dependen del transporte público para sus traslados diarios.
 - **Usuario secundario:** Personas nuevas en la ciudad que necesitan moverse de forma económica y segura sin conocer el idioma local o el funcionamiento del transporte de la zona.
 
 
