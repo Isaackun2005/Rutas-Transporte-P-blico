@@ -9,7 +9,7 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Producto: **Michisuji** es un sistema web de gestión y consulta de rutas de transporte público que permite a los usuarios visualizar recorridos, paradas y horarios disponibles. Facilita la planificación de viajes urbanos y la administración centralizada de líneas y unidades.
 
 ## Reglas obligatorias
 
